@@ -57,7 +57,7 @@ xpui.js_repl_8008 = ,${1}56,
 apply the theme using these commands
 
 ```
-spicetify current_theme Bloom
+spicetify config current_theme Bloom
 spicetify config color_scheme dark
 spicetify apply
 ```
